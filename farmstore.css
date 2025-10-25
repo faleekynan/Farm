@@ -29,7 +29,11 @@
     border-collapse: separate;
     border-spacing: 0 8px;
 }
+.table-striped .goods a{
+    transition: 0.3s;
+    color: #333 !important;
+}
 .table-striped .goods a:hover{
     transition: 0.3s;
-    font-weight: bold;
+    color: black;
 }
