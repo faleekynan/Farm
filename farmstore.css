@@ -37,3 +37,7 @@
     transition: 0.3s;
     color: black  !important;
 }
+.profile-image {
+    
+    clip-path: none !important;
+}
