@@ -14,9 +14,13 @@
 }
 .td-btn {
     border-radius: 0px 10px 10px 0px !important;
+    border-right: solid 1px #eee !important;
 }
 .table-striped .goods td {
     vertical-align: middle;
+    border-left: solid 1px #eee;
+    border-top: solid 1px #eee;
+    border-bottom: solid 1px #eee;
 }
 .table-striped>tbody>tr:nth-of-type(odd) {
     background-color: transparent !important;
