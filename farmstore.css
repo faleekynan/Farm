@@ -21,3 +21,7 @@
 .table-striped>tbody>tr:nth-of-type(odd) {
     background-color: transparent !important;
 }
+.table-bordered {
+    border-collapse: separate;
+    border-spacing: 0 5px;
+}
