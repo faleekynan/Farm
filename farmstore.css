@@ -3,3 +3,15 @@
     padding-left: 10px;
     transition: 0.3s;
 }
+.td-price,
+.td-count{
+    border-radius: 0px !important;
+}
+
+.td-price,
+.td-count{
+    border-radius: 0px !important;
+}
+.td-btn {
+    border-radius: 0px 10px 0px 0px !important;
+}
